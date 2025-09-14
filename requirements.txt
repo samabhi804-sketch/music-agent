@@ -4,3 +4,4 @@ pywhatkit
 pytest
 black
 flake8
+ytmusicapi
